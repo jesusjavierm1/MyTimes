@@ -77,7 +77,7 @@ div {
 }
 
 .lead-story .image-content {
-  background-image: url(sources/images/img-story-main.png);
+  background-image: url(images/img-story-main.png);
   width: 630px;
   margin-top: 0;
   font-size: 40px;
@@ -95,15 +95,15 @@ div {
 }
 
 .cat-ceo.image-content {
-  background-image: url(sources/images/img-story-1.png);
+  background-image: url(images/img-story-1.png);
 }
 
 .fall-cancelled.image-content {
-  background-image: url(sources/images/img-story-2.png);
+  background-image: url(images/img-story-2.png);
 }
 
 .pop-culture.image-content {
-  background-image: url(sources/images/img-story-3.png);
+  background-image: url(images/img-story-3.png);
 }
 
 .story {
